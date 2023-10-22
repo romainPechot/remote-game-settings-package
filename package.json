@@ -1,0 +1,35 @@
+{
+    "name": "com.madbox.exercice.remote-game-settings",
+    "version": "0.1.0",
+    "displayName": "Remote Game Settings",
+    "description": "This is an exercice/example package for a remote game settings structure.",
+    "unity": "2021.3",
+    "unityRelease": "24f1",
+    "documentationUrl": "https://achieved-mustang-b84.notion.site/Home-Assignment-Test-Materials-for-Romain-P-chot-74a82912a01d46848bffc5b000e45fbe",
+    "changelogUrl": "https://achieved-mustang-b84.notion.site/Home-Assignment-Test-Materials-for-Romain-P-chot-74a82912a01d46848bffc5b000e45fbe",
+    "licensesUrl": "https://achieved-mustang-b84.notion.site/Home-Assignment-Test-Materials-for-Romain-P-chot-74a82912a01d46848bffc5b000e45fbe",
+    "dependencies": {},
+   "keywords": [
+      "madbox",
+      "exercice",
+      "remote",
+      "settings"
+    ],
+    "author": {
+      "name": "Romain Péchot",
+      "email": "romain.pechot@gmail.com",
+      "url": "https://www.linkedin.com/in/pechotromain/"
+    },
+    "samples":[
+      {
+        "displayName": "Ingame Use Case",
+        "description": "An ingame example that use the remote game's settings.",
+        "path": "Sample~/Ingame Use Case"
+      },
+      {
+        "displayName": "Editor Use Case",
+        "description": "An editor example that use the remote game's settings.",
+        "path": "Sample~/Editor Use Case"
+      }
+    ]
+  }
